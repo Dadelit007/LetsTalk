@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786152731556",
+    "firebase_url": "https://letstalk-92bca.firebaseio.com",
+    "project_id": "letstalk-92bca",
+    "storage_bucket": "letstalk-92bca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786152731556:android:a0ef596645774772544731",
+        "android_client_info": {
+          "package_name": "com.example.letstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786152731556-fmj9f90puh4tc4du0a1qvfhldvomadlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letstalk",
+            "certificate_hash": "07a31ebe52c7c1ae368ad04b943a41e5503b8a2f"
+          }
+        },
+        {
+          "client_id": "786152731556-0qjo0dljvru6o37l0bth37b7q74h9aba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcWh2owMfO_PgbhmrOT1HsXQuPFDMf47I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786152731556-0qjo0dljvru6o37l0bth37b7q74h9aba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
